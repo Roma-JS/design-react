@@ -50,8 +50,10 @@
     "classnames": "^2.2.5",
     "design-web-toolkit": "github:italia/design-web-toolkit",
     "jquery": "^3.2.1",
+    "leaflet": "^1.2.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
+    "react-leaflet": "^1.7.0",
     "tablesaw": "^3.0.3"
   },
   "jest": {

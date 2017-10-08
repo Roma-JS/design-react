@@ -1,4 +1,9 @@
+@import '~leaflet/dist/leaflet.css';
 @import './styles/build.css';
+
+.leaflet-container {
+    width: 100%;
+}
 
 body {
     font-family: Titillium Web,HelveticaNeue-Light,Helvetica Neue Light,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
